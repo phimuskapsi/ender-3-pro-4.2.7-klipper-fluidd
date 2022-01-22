@@ -8,4 +8,4 @@ When I first installed this the tilt was pretty severe after a Bed Mesh calibrat
 The max side of X was -2.5mm and the min side was -1.0 or more. 
 
 Rather than screw around with the springs, make sure your Z-steppers are strongly attached, then when pressing down on the screw for the Z, you can manually turn the stepper.
-I have found that a general rule of thumb is one turn is around 0.01mm. If you are negative, you need to turn it so the gantry goes down, positive it needs to go up.
+I have found that a general rule of thumb is one turn is around 0.1mm. If you are negative, you need to turn it so the gantry goes down, positive it needs to go up.
