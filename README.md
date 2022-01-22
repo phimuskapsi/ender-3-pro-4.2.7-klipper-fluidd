@@ -11,6 +11,12 @@ My headaches lead to writing this so you don't have to go to the levels of resea
 
 ## Klipper Setup:
 - RaspberryPi 3B running FluiddPi - https://github.com/fluidd-core/FluiddPI
+- fluidd v1.16.2
+- klipper v0.10.0-235
+- moonraker v0.7.1-300
+- OS Packages all up to date
+  - Note! When updating you *must* rebuild the klipper.bin
+  - When placing the klipper.bin file on your sdcard, make sure the name is different from the last uploaded
 
 ## Klipper Configuration File
 [printer.cfg](printer.cfg)
