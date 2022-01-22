@@ -3,7 +3,7 @@ My headaches lead to writing this so you don't have to go to the levels of resea
 
 Ender 3 Pro Config
 - 4.2.7 Creality Silent Board (STM 32-bit processor)
-- Dual Z-axis (no UART ... yet, see UART section)
+- [Dual Z-axis](dual_z_upgrade.md) (no UART ... yet, see UART section)
 - Touchscreen upgrade (inactive, not used ... yet)
 - Dawnblade Direct Drive Extruder
 - Z-blocks/supports
