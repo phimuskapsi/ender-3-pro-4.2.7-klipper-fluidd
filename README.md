@@ -19,7 +19,7 @@ My headaches lead to writing this so you don't have to go to the levels of resea
   - When placing the klipper.bin file on your sdcard, make sure the name is different from the last uploaded
 
 ## Klipper Configuration File
-[printer.cfg](printer.cfg)
+[klipper.cfg](klipper.cfg)
 
 ## Notes about Klipper Config:
 ### stepper-z section
